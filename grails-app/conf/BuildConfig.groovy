@@ -47,7 +47,7 @@ grails.project.dependency.resolution = {
               ":rest-client-builder:1.0.3") {
             export = false
         }
-        build ":maven-publisher:0.8.1"
+        //build ":maven-publisher:0.8.1"
 	    compile ":joda-time:1.5"
 		compile ":directory-service:0.10.1"
 		
